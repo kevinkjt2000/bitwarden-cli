@@ -1,4 +1,4 @@
 [submodule "jslib"]
 	path = jslib
-	url = https://github.com/bitwarden/jslib.git
-	branch = master
+	url = https://github.com/kevinkjt2000/jslib.git
+	branch = force-premium
